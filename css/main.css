@@ -25,6 +25,7 @@ html {
 .link-card h2 {
   font-family: Dosis, sans-serif;
   font-weight: bold;
+  line-height: 1.5rem;
   text-decoration: none;
   margin: 0 0 1rem;
   display: inline-block;
@@ -59,7 +60,7 @@ dd {
 dt {
   display: inline-block;
   width: 45%;
-  font-size: 1rem;
+  font-size: .875rem;
 }
 
 .btn {
@@ -69,8 +70,9 @@ dt {
   border-radius: 8px;
   padding: .4em .75em .5em;
   margin: auto;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-family: Dosis, sans-serif;
+  font-weight: bold;
 }
 
 .center {
