@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
-    font: normal 100%/1.5 Georgia, serif;
-    background-color: #f0eee8;
+  font: normal 100%/1.5 Georgia, serif;
+  background-color: #f0eee8;
 }
 
 *, *::before, *::after {
@@ -22,8 +22,8 @@ html {
   background-color: #cabdb2;
 }
 
-h2 {
-  font-family: 'Dosis', sans-serif;
+.link-card h2 {
+  font-family: Dosis, sans-serif;
   text-decoration: none;
   margin: 0 0 1rem;
   display: inline-block;
