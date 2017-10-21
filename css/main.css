@@ -48,14 +48,14 @@ hr {
 }
 
 dd {
+  display: inline-block;
   margin: 0;
   width: 50%;
-  float: left;
 }
 
 dt {
-  width: 50%;
-  float: left;
+  display: inline-block;
+  width: 45%;
 }
 
 .btn {
