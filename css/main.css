@@ -23,7 +23,7 @@ html {
 }
 
 h2 {
-  font-style: "Dosis", sans-serif;
+  font-family: 'Dosis', sans-serif;
   text-decoration: none;
   margin: 0 0 1rem;
   display: inline-block;
